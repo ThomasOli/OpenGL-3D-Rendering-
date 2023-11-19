@@ -9,3 +9,4 @@
 ## Loading 3-D Objects
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/c5fa3f60-68c7-4105-9d0a-0d63eab72481)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/6fbe571b-1ac2-4ad3-bf37-d7bb3de83074)
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/8293cce4-becb-4104-b77d-e867c2166dbb)
