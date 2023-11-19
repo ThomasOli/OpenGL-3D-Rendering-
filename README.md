@@ -30,3 +30,8 @@
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/579b8192-a0da-4c6b-914e-5cb7f6633e44) ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/313ff162-6267-485c-b5fc-7c7f48f558ff)![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/01358389-8bae-48e4-a7a1-69508a0b6c52)
 
 
+## Directional Lighting
+
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/f961f48d-748d-4d9b-a873-b5fe093e6ea0)
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/3b056daf-63f7-4e80-909d-091d774f23d4)![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/bfdbf8a5-f934-4070-896a-64166e4e9321)
+
