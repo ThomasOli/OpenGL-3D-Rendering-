@@ -37,3 +37,4 @@
 
 ## Spot Light 
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/4d173057-cfa7-4069-ba94-03e5467655e9)
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/750a04ab-61fc-44aa-adac-1aabc2cfed43)
