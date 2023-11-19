@@ -36,5 +36,6 @@
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/3b056daf-63f7-4e80-909d-091d774f23d4)![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/bfdbf8a5-f934-4070-896a-64166e4e9321)
 
 ## Spot Light 
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/cff37218-5ca5-4a5a-89e4-ea91d0801f65)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/4d173057-cfa7-4069-ba94-03e5467655e9)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/750a04ab-61fc-44aa-adac-1aabc2cfed43)
