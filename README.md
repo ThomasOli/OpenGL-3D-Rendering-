@@ -15,3 +15,6 @@
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/2346bb7a-635c-4767-b663-6074c1cd088e)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/83bcb3b5-f10f-4659-aa31-8228cc1e9c05)
 
+## Lighting
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/53e093c8-86fb-4d1f-932a-07c607b6bac9)
+
