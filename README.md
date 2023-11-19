@@ -6,3 +6,5 @@
 ## Texture Loading
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/788b8765-4116-4332-babd-b587d3265a01)
 
+## Loading 3-D Objects
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/c5fa3f60-68c7-4105-9d0a-0d63eab72481)
