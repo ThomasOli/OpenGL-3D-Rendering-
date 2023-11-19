@@ -23,5 +23,10 @@
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/b45b0b95-0dc1-43f2-957d-96535f7704bd)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/37c34bf4-3c75-4647-9d5d-242dd8d3c6f7) ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/e1969fe3-56f7-4799-a96c-18d2aeef6a0f) ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/fd322e9a-0fb4-4d26-99a0-fecafb0cea41)
 
+## Point Lighting 
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/95ddd32b-1da7-4766-bd70-05dcd9c18717)
 
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/97b88389-a751-4b41-91c6-6226e7da7bed)
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/579b8192-a0da-4c6b-914e-5cb7f6633e44) ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/313ff162-6267-485c-b5fc-7c7f48f558ff)![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/01358389-8bae-48e4-a7a1-69508a0b6c52)
+
+
