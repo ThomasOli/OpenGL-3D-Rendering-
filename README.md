@@ -24,3 +24,4 @@
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/37c34bf4-3c75-4647-9d5d-242dd8d3c6f7) ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/e1969fe3-56f7-4799-a96c-18d2aeef6a0f) ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/fd322e9a-0fb4-4d26-99a0-fecafb0cea41)
 
 
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/97b88389-a751-4b41-91c6-6226e7da7bed)
