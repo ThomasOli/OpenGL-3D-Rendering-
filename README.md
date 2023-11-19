@@ -13,4 +13,5 @@
 
 ## Camera 
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/2346bb7a-635c-4767-b663-6074c1cd088e)
-![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/5d619493-b73a-485c-9976-46acfd3d585b)
+![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/83bcb3b5-f10f-4659-aa31-8228cc1e9c05)
+
