@@ -1,4 +1,30 @@
 # OpenGL-3D-Rendering-
+# MP-APS
+A modern OpenGL 3D rendering engine. The idea behind it is to be very simple to use: no weird abstraction layers, janky variable names, or massive 2000+ line classes. It's primarily a playground for me to implement (or at least try :P) different graphics programming techniques. Progress has been slow since I'm juggling full-time Univesity studies, work, and trying to be physically active. Eventually, I want to create a "scene-based" engine, where you can load up some model(s), add some fancy lights, and virtually explore it.
+
+![MPAPS](https://github.com/htmlboss/OpenGL-Renderer/blob/master/MP-APS/img/MP-APS.png "MPAPS")
+
+[![C/C++ CI](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/c-cpp.yml)
+[![CodeQL](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/codeql-analysis.yml)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd7023ebf2e941eeb7d4f67cf9c6ea1f)](https://www.codacy.com/app/htmlboss/OpenGL-Renderer?utm_source=github.com&utm_medium=referral&utm_content=htmlboss/OpenGL-Renderer&utm_campaign=badger)
+
+[![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
+
+
+## Compiling
+### Ubuntu (and similar)
+
+```sh
+bash install-deps-ubuntu.sh
+make
+cd build/
+./ThomasOpenGL.vcxproj
+```
+
+## DEVELOPMENT PROCESS
 
 ## Loading Verticies
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/02b8ea63-7a48-4bdf-9a18-0d06ba6b9c88)
