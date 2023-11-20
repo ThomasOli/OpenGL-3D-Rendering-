@@ -1,18 +1,19 @@
 # OpenGL-3D-Rendering-
-# MP-APS
-A modern OpenGL 3D rendering engine. The idea behind it is to be very simple to use: no weird abstraction layers, janky variable names, or massive 2000+ line classes. It's primarily a playground for me to implement (or at least try :P) different graphics programming techniques. Progress has been slow since I'm juggling full-time Univesity studies, work, and trying to be physically active. Eventually, I want to create a "scene-based" engine, where you can load up some model(s), add some fancy lights, and virtually explore it.
+An OpenGL rendering engine written in C++. The engine is small and light. It implements things like shadow mapping, ambient occlusion, and shader application. This engine is made open source through the MPL 2.0 license.
 
-![MPAPS](https://github.com/htmlboss/OpenGL-Renderer/blob/master/MP-APS/img/MP-APS.png "MPAPS")
+* This is a software rasterizer for OpenGL
+* This does not use any existing graphics libraries
 
-[![C/C++ CI](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/c-cpp.yml)
-[![CodeQL](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/htmlboss/OpenGL-Renderer/actions/workflows/codeql-analysis.yml)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd7023ebf2e941eeb7d4f67cf9c6ea1f)](https://www.codacy.com/app/htmlboss/OpenGL-Renderer?utm_source=github.com&utm_medium=referral&utm_content=htmlboss/OpenGL-Renderer&utm_campaign=badger)
+I wanted to try and understand the fundamentals of graphics rendering after getting a good GPU for my computer. I initiated a graphics rendering project to understand fundamental concepts, starting with basic 2D shapes and index buffers. This then evolved into a robust 3D rendering engine, featuring shaders, meshes, textures, and advanced lighting techniques (specular, diffuse, Blinn-Phong). Implemented dynamic camera motion, spotlight, point light, and directional lighting.
+I further enriched the engine with advanced graphics techniques, including Geometry Shaders, Multi-Object Instancing, Anti-Aliasing, Bloom, High Dynamic Range, Gamma Correction, Shadow Maps, Parallax Occlusion Mapping, and Face-Culling. The result is a visually captivating rendering engine, showcasing the journey from basics to sophisticated graphics programming.
 
-[![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
+This multifaceted rendering engine encompasses a spectrum of elements, starting with the implementation of shaders, meshes, objects, and textures. Noteworthy features include dynamic camera motion, specular and diffuse lighting, as well as the incorporation of spotlight, point light, directional lighting, and Blinn-Phong Lighting techniques for achieving nuanced and realistic visuals.
 
+The project's evolution didn't stop there; additional graphics techniques were seamlessly integrated to enhance the rendering capabilities. This expansion included the implementation of Geometry Shaders for more complex geometries, Multi-Object Instancing for efficient rendering of numerous objects, and Anti-Aliasing to ensure smooth and artifact-free visuals. Bloom effects were introduced to add a layer of vibrancy, while High Dynamic Range (HDR) and Gamma Correction techniques were applied to achieve a more lifelike representation of light and color.
+
+Delving deeper into the intricacies of rendering, the project also embraced Shadow Maps to cast realistic shadows, Parallax Occlusion Mapping for detailed surface rendering, and Face-Culling to optimize performance by excluding unseen geometry.
+
+As the project unfolded, it evolved into a sophisticated custom 3D rendering engine, showcasing a progression from foundational concepts to advanced visual effects, evident in the captivating screenshots below.
 
 ## Compiling
 ### Ubuntu (and similar)
