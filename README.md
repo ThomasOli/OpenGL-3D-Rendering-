@@ -65,3 +65,22 @@ cd build/
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/cff37218-5ca5-4a5a-89e4-ea91d0801f65)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/4d173057-cfa7-4069-ba94-03e5467655e9)
 ![image](https://github.com/ThomasOli/OpenGL-3D-Rendering-/assets/51518411/750a04ab-61fc-44aa-adac-1aabc2cfed43)
+
+
+## Third Party Code
+* Assimp.
+* GLM.
+* GLAD.
+* GLFW.
+* stb_image.
+* pugixml.
+* GLM AABB wrapper: ([https://github.com/iauns/cpm-glm-aabb](https://github.com/iauns/cpm-glm-aabb)).
+
+## Resources Used
+*  Learn OpenGL.com provides good and clear modern 3.3+ OpenGL tutorials with clear examples. A great resource to learn modern OpenGL aimed at beginners. ([Learn OpenGL - online print edition - Free PDF](https://learnopengl.com/book/book_pdf.pdf))
+*  _Fast Extraction of Viewing Frustum Planes from the World-View-Projection Matrix_ ([http://www.cs.otago.ac.nz/postgrads/alexis/planeExtraction.pdf](http://www.cs.otago.ac.nz/postgrads/alexis/planeExtraction.pdf)). Gribb, Hartman (2001).
+* _Forward+: Bringing Deferred Lighting to the Next Level_ ([https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)). Harada, McKee, Yang (2012).
+* _Solid Wireframe_ ([http://developer.download.nvidia.com/SDK/10/direct3d/Source/SolidWireframe/Doc/SolidWireframe.pdf](http://developer.download.nvidia.com/SDK/10/direct3d/Source/SolidWireframe/Doc/SolidWireframe.pdf)). Nvidia (2007).
+* _Physically Based Rendering_ ([https://learnopengl.com/#!PBR/IBL/Specular-IBL](https://learnopengl.com/#!PBR/IBL/Specular-IBL))
+* _Variance Shadow Mapping_ ([http://developer.download.nvidia.com/SDK/10.5/direct3d/Source/VarianceShadowMapping/Doc/VarianceShadowMapping.pdf](http://developer.download.nvidia.com/SDK/10.5/direct3d/Source/VarianceShadowMapping/Doc/VarianceShadowMapping.pdf))
+* _Tessellated Terrain Rendering with Dynamic LOD_ ([http://victorbush.com/2015/01/tessellated-terrain/](http://victorbush.com/2015/01/tessellated-terrain/))
