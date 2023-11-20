@@ -69,7 +69,8 @@ cd build/
 
 
 ## Third Party Code
-* Assimp.
+* OpenGL
+* GLSL
 * GLM.
 * GLAD.
 * GLFW.
