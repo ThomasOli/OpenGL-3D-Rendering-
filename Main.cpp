@@ -198,12 +198,6 @@ int main()
 
 
 
-	// Paths to textures
-	std::string parentDir = (fs::current_path().fs::path::parent_path()).string();
-	std::string diffusePath = "/Resources/YoutubeOpenGL 27 - Normal Maps/textures/diffuse.png";
-	std::string normalPath = "/Resources/YoutubeOpenGL 27 - Normal Maps/textures/normal.png";
-	std::string displacementPath = "/Resources/YoutubeOpenGL 28 - Parallax Occlusion Mapping/textures/displacement.png";
-
 	std::vector<Texture> textures =
 	{
 		Texture((parentDir + diffusePath).c_str(), "diffuse", 0)
